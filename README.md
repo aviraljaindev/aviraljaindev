@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aviraljaindev
-- 👀 I’m interested in Web development(Front-end), Graphic Designing, Cloud technology, different programming languages.
-- 🌱 I’m currently learning VueJS, ReactJS, Cloud computing.
-- 💞️ I’m looking to collaborate in projects related to Web development, Cloud technology, C, C++, Java.
+- 👀 I’m interested in Web development(Front-end), AI/ML, Design, Cloud, different programming languages.
+- 🌱 I’m currently learning about Machine Learning, Python.
+- 💞️ I’m looking to collaborate in projects related to Web development, AI/ML, Cloud technology, C, C++, Java.
 - 📫 You can reach me out on Linkedin - '@jainaviral' and on twitter - 'aviraljain_'.
 
 
