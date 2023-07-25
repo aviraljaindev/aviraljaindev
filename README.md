@@ -1,3 +1,4 @@
+![image](https://github.com/aviraljaindev/aviraljaindev/assets/98274259/58d4062d-6448-44a9-8205-845493129898)
 - 👋 Hi, I’m @aviraljaindev
 - 👀 I’m interested in Web development(Front-end), AI/ML, Design, Cloud, different programming languages.
 - 🌱 I’m currently learning about Machine Learning, Python.
